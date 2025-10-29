@@ -189,7 +189,7 @@ COGNOS/
 │  │  └─ main.py              # FastAPI app bootstrap
 │  ├─ data/                   # local storage (created at runtime)
 │  ├─ requirements.txt
-│  └─ .env(.example)
+│  └─ .env
 ├─ frontend/
 │  ├─ src/                    # React app (Vite)
 │  ├─ public/
