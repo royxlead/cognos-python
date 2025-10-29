@@ -1,6 +1,6 @@
 <div align="center">
 
-# COGNOS: 
+# COGNOS
 
 An elegant, privacy‑first AI assistant with local long‑term memory, multi‑model routing, and a polished React UI.
 
