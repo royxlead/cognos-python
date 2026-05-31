@@ -1,8 +1,6 @@
-# COGNOS README
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=COGNOS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cognitive%20AI%20Assistant%20with%20Memory%20%26%20Reasoning&descAlignY=60&descSize=15&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=COGNOS&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cognitive%20AI%20Assistant%20with%20Memory%20%20Reasoning&descAlignY=60&descSize=15&descColor=a5b4fc" width="100%"/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
